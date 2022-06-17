@@ -330,7 +330,8 @@ a.active {
 }
 
 .about-img-div img {
-    margin: 0 auto;
+    margin: 150px auto;
+    margin-right: 50px;
 }
 
 .about-border {
